@@ -7,3 +7,4 @@ const msg = `おはようございます、${name1}さん。
 たくさんプレゼントを買いましょう。`;
 
 console.log(msg);
+window.alert(msg);
